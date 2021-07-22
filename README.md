@@ -2,6 +2,7 @@
 <ul>
   <li> ReactJS </li>
   <li> TypeScript </li>
+  <li> Styled-Components </li>
 </ul>
 
 <h1> Como rodar? </h1>
